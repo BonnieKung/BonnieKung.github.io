@@ -122,4 +122,14 @@
 
 	});
 
+	// Hi Res Popup.
+				$( document ).ready(function() {
+					document.getElementById("hirespdf").addEventListener("click", function(){
+					window.open("posters/cns_2019.pdf",'_blank');
+					});
+
+				});
+	
+	
+	
 })(jQuery);
