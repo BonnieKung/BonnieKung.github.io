@@ -1244,3 +1244,8 @@
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
 	}
+/* Pointer for links */
+
+	.pointer {
+		cursor: pointer;
+	}
